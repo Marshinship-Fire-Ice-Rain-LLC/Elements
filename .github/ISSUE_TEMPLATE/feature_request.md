@@ -1,6 +1,6 @@
 ---
 name: Feature requests
-about: Suggest an idea for this project
+about: Suggest an     git clone https://github.com/confluentinc/learn-kafka-courses.gitidea for this project
 title: ''
 labels: ''
 assignees:1---
